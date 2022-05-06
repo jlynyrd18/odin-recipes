@@ -1,8 +1,23 @@
+* {
+    text-align: center;
+    
+}
+ul {
+    list-style: none;
+}
+li {
+    margin: 0 0 20px 0;
+}
 #header {
     text-align: center;
     font-size: 56px;
+    color:aquamarine;
+    background-color: black;
 
 }
 .recipes {
-
+    font-size: 42px;
+}
+.intro {
+    font-size: 32px;
 }
