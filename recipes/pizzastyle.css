@@ -1,0 +1,33 @@
+body {
+    background-image: linear-gradient(to bottom right, red, white);
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    float: right;
+    width: 550px;
+    height: auto;
+}
+
+p{
+    margin-left: 25px;
+}
+
+h3 {
+    font-size: 36px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.subheader {
+    border-bottom: 3px solid black;
+}
+
+#header {
+    font-size: 48px;
+}
