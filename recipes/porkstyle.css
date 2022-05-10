@@ -16,3 +16,15 @@ h3 {
 li {
     margin-bottom: 5px;
 }
+
+.deschead {
+    background-color: tan;
+}
+
+.ingrhead {
+    background-color: aqua;
+}
+
+.stepshead {
+    background-color: antiquewhite;
+}
